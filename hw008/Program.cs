@@ -6,5 +6,6 @@ int numberA = 0;
 while (N > numberA)
 {
     numberA += 2;
+    if (numberA<=N)
     Console.WriteLine(numberA);
 }
