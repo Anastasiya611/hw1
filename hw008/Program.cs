@@ -2,9 +2,9 @@
 
 System.Console.WriteLine("Введите число N: ");
 int N = int.Parse(Console.ReadLine()!);
-int NumberA = 0;
-while (N > NumberA)
+int numberA = 0;
+while (N > numberA)
 {
-NumberA += 2;
-Console.WriteLine(NumberA);
+    numberA += 2;
+    Console.WriteLine(numberA);
 }

@@ -8,10 +8,12 @@ int numberB = int.Parse(Console.ReadLine()!);
 
 if (numberA > numberB)
 {
-Console.WriteLine (numberA);
+    Console.WriteLine ("max=" + numberA);
+    Console.WriteLine ("min=" + numberB);
 }
 else
 {
-Console.WriteLine (numberB);
+    Console.WriteLine ("max=" + numberB );
+    Console.WriteLine ("min=" + numberA);
 }
         

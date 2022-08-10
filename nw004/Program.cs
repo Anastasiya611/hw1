@@ -8,17 +8,14 @@ int numberB = int.Parse(Console.ReadLine()!);
 System.Console.WriteLine("Введите третье число: ");
 int numberС = int.Parse(Console.ReadLine()!);
 int max = numberA;
-if (numberA > max)
-{
-max = numberA;
-}
+
 if (numberB > max)
 {
-max = numberB;
+    max = numberB;
 }
 if (numberС > max)
 {
-max = numberС;
+    max = numberС;
 }
 Console.WriteLine (max);
 
