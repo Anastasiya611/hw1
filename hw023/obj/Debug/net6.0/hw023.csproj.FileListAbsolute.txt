@@ -1,0 +1,15 @@
+C:\Users\admin.DESKTOP-10PBHPS\Desktop\hw c#\hw023\obj\Debug\net6.0\hw023.csproj.AssemblyReference.cache
+C:\Users\admin.DESKTOP-10PBHPS\Desktop\hw c#\hw023\obj\Debug\net6.0\hw023.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin.DESKTOP-10PBHPS\Desktop\hw c#\hw023\obj\Debug\net6.0\hw023.AssemblyInfoInputs.cache
+C:\Users\admin.DESKTOP-10PBHPS\Desktop\hw c#\hw023\obj\Debug\net6.0\hw023.AssemblyInfo.cs
+C:\Users\admin.DESKTOP-10PBHPS\Desktop\hw c#\hw023\obj\Debug\net6.0\hw023.csproj.CoreCompileInputs.cache
+C:\Users\admin.DESKTOP-10PBHPS\Desktop\hw c#\hw023\bin\Debug\net6.0\hw023.exe
+C:\Users\admin.DESKTOP-10PBHPS\Desktop\hw c#\hw023\bin\Debug\net6.0\hw023.deps.json
+C:\Users\admin.DESKTOP-10PBHPS\Desktop\hw c#\hw023\bin\Debug\net6.0\hw023.runtimeconfig.json
+C:\Users\admin.DESKTOP-10PBHPS\Desktop\hw c#\hw023\bin\Debug\net6.0\hw023.dll
+C:\Users\admin.DESKTOP-10PBHPS\Desktop\hw c#\hw023\bin\Debug\net6.0\hw023.pdb
+C:\Users\admin.DESKTOP-10PBHPS\Desktop\hw c#\hw023\obj\Debug\net6.0\hw023.dll
+C:\Users\admin.DESKTOP-10PBHPS\Desktop\hw c#\hw023\obj\Debug\net6.0\refint\hw023.dll
+C:\Users\admin.DESKTOP-10PBHPS\Desktop\hw c#\hw023\obj\Debug\net6.0\hw023.pdb
+C:\Users\admin.DESKTOP-10PBHPS\Desktop\hw c#\hw023\obj\Debug\net6.0\hw023.genruntimeconfig.cache
+C:\Users\admin.DESKTOP-10PBHPS\Desktop\hw c#\hw023\obj\Debug\net6.0\ref\hw023.dll
