@@ -1,0 +1,15 @@
+C:\Users\admin.DESKTOP-10PBHPS\Desktop\HomeWork c#\HW47\bin\Debug\net6.0\HW47.exe
+C:\Users\admin.DESKTOP-10PBHPS\Desktop\HomeWork c#\HW47\bin\Debug\net6.0\HW47.deps.json
+C:\Users\admin.DESKTOP-10PBHPS\Desktop\HomeWork c#\HW47\bin\Debug\net6.0\HW47.runtimeconfig.json
+C:\Users\admin.DESKTOP-10PBHPS\Desktop\HomeWork c#\HW47\bin\Debug\net6.0\HW47.dll
+C:\Users\admin.DESKTOP-10PBHPS\Desktop\HomeWork c#\HW47\bin\Debug\net6.0\HW47.pdb
+C:\Users\admin.DESKTOP-10PBHPS\Desktop\HomeWork c#\HW47\obj\Debug\net6.0\HW47.csproj.AssemblyReference.cache
+C:\Users\admin.DESKTOP-10PBHPS\Desktop\HomeWork c#\HW47\obj\Debug\net6.0\HW47.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin.DESKTOP-10PBHPS\Desktop\HomeWork c#\HW47\obj\Debug\net6.0\HW47.AssemblyInfoInputs.cache
+C:\Users\admin.DESKTOP-10PBHPS\Desktop\HomeWork c#\HW47\obj\Debug\net6.0\HW47.AssemblyInfo.cs
+C:\Users\admin.DESKTOP-10PBHPS\Desktop\HomeWork c#\HW47\obj\Debug\net6.0\HW47.csproj.CoreCompileInputs.cache
+C:\Users\admin.DESKTOP-10PBHPS\Desktop\HomeWork c#\HW47\obj\Debug\net6.0\HW47.dll
+C:\Users\admin.DESKTOP-10PBHPS\Desktop\HomeWork c#\HW47\obj\Debug\net6.0\refint\HW47.dll
+C:\Users\admin.DESKTOP-10PBHPS\Desktop\HomeWork c#\HW47\obj\Debug\net6.0\HW47.pdb
+C:\Users\admin.DESKTOP-10PBHPS\Desktop\HomeWork c#\HW47\obj\Debug\net6.0\HW47.genruntimeconfig.cache
+C:\Users\admin.DESKTOP-10PBHPS\Desktop\HomeWork c#\HW47\obj\Debug\net6.0\ref\HW47.dll
