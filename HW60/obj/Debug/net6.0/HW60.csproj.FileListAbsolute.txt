@@ -1,0 +1,15 @@
+C:\Users\admin.DESKTOP-10PBHPS\Desktop\HomeWork c#\HW60\bin\Debug\net6.0\HW60.exe
+C:\Users\admin.DESKTOP-10PBHPS\Desktop\HomeWork c#\HW60\bin\Debug\net6.0\HW60.deps.json
+C:\Users\admin.DESKTOP-10PBHPS\Desktop\HomeWork c#\HW60\bin\Debug\net6.0\HW60.runtimeconfig.json
+C:\Users\admin.DESKTOP-10PBHPS\Desktop\HomeWork c#\HW60\bin\Debug\net6.0\HW60.dll
+C:\Users\admin.DESKTOP-10PBHPS\Desktop\HomeWork c#\HW60\bin\Debug\net6.0\HW60.pdb
+C:\Users\admin.DESKTOP-10PBHPS\Desktop\HomeWork c#\HW60\obj\Debug\net6.0\HW60.csproj.AssemblyReference.cache
+C:\Users\admin.DESKTOP-10PBHPS\Desktop\HomeWork c#\HW60\obj\Debug\net6.0\HW60.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin.DESKTOP-10PBHPS\Desktop\HomeWork c#\HW60\obj\Debug\net6.0\HW60.AssemblyInfoInputs.cache
+C:\Users\admin.DESKTOP-10PBHPS\Desktop\HomeWork c#\HW60\obj\Debug\net6.0\HW60.AssemblyInfo.cs
+C:\Users\admin.DESKTOP-10PBHPS\Desktop\HomeWork c#\HW60\obj\Debug\net6.0\HW60.csproj.CoreCompileInputs.cache
+C:\Users\admin.DESKTOP-10PBHPS\Desktop\HomeWork c#\HW60\obj\Debug\net6.0\HW60.dll
+C:\Users\admin.DESKTOP-10PBHPS\Desktop\HomeWork c#\HW60\obj\Debug\net6.0\refint\HW60.dll
+C:\Users\admin.DESKTOP-10PBHPS\Desktop\HomeWork c#\HW60\obj\Debug\net6.0\HW60.pdb
+C:\Users\admin.DESKTOP-10PBHPS\Desktop\HomeWork c#\HW60\obj\Debug\net6.0\HW60.genruntimeconfig.cache
+C:\Users\admin.DESKTOP-10PBHPS\Desktop\HomeWork c#\HW60\obj\Debug\net6.0\ref\HW60.dll
